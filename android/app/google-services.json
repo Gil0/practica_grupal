@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19905437018",
+    "firebase_url": "https://practicagrupal-56f96.firebaseio.com",
+    "project_id": "practicagrupal-56f96",
+    "storage_bucket": "practicagrupal-56f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19905437018:android:14fe61ba0760262ab46763",
+        "android_client_info": {
+          "package_name": "com.example.practica_grupal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19905437018-m2gim1742chpbkdb3hp1cgm4c76aju2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM00dkqS2oJ7tKtUtYoKNIlg3OnLT2L2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19905437018-m2gim1742chpbkdb3hp1cgm4c76aju2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
